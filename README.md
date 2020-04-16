@@ -1,2 +1,2 @@
-# paintjs
-Painting Board made with VanillaJS
+# painjs
+ Painting Board made with VanillaJS
